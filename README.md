@@ -41,11 +41,18 @@ que se opera, la app que usa el cliente y el cobro recurrente que lo sostiene.
 </tr>
 <tr>
 <td valign="top"><b>También</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,cs,unity,git,github,vscode,powershell&perline=10"></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,cs,unity,linux,git,github,powershell&perline=10"></td>
 </tr>
 <tr>
 <td valign="top"><b>He tocado,<br>sin llamarme experto</b></td>
 <td><img src="https://skillicons.dev/icons?i=unreal,blender&perline=10"></td>
+</tr>
+<tr>
+<td valign="top"><b>Para escribir<br>el código</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+</td>
 </tr>
 </table>
 
@@ -75,7 +82,7 @@ _Los cinco siguen en repositorios privados._
 
 | Proyecto | | Qué es |
 |:---|:---|:---|
-| **[Operia](https://github.com/molinangel/Operia)** | ![](https://img.shields.io/badge/Autor-1F6FEB?style=flat-square) | SaaS multi-inquilino para negocios de servicios: trabajos, presupuestos que el cliente aprueba desde el móvil y control de cobros<br>`Next.js 16` `Prisma` `argon2id` |
+| **[Operia](https://github.com/molinangel/Operia)** |  ![](https://img.shields.io/badge/Autor-1F6FEB?style=flat-square) ![](https://img.shields.io/badge/en%20desarrollo-D29922?style=flat-square) | SaaS multi-inquilino para negocios de servicios: trabajos, presupuestos que el cliente aprueba desde el móvil y control de cobros<br>`Next.js 16` `Prisma` `argon2id` |
 | **[SH](https://github.com/diego-landaeta/SH)** | ![](https://img.shields.io/badge/Contribuidor%20clave-1F6FEB?style=flat-square) | Gestión operativa sobre Supabase<br>`React` `shadcn/ui` `PostgreSQL` |
 | **[CRM](https://github.com/diego-landaeta/CRM)** · **[CRM-ISEIE](https://github.com/diego-landaeta/CRM-ISEIE)** | ![](https://img.shields.io/badge/Contribuidor-484F58?style=flat-square) | CRM multiproyecto con backend propio<br>`Express` `PostgreSQL` `React` `S3` |
 
