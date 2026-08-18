@@ -15,15 +15,29 @@
 
 ## 👋 Sobre mí
 
-Construyo el producto entero: el esquema de la base de datos, el backend, el panel desde el
-que se opera, la app que usa el cliente y el cobro recurrente que lo sostiene.
+Me llamo Nangel y escribo software desde **Venezuela**. Vengo de formación técnica y el resto
+lo he aprendido construyendo: casi todo lo que sé hacer salió de un producto que había que
+terminar y poner en manos de alguien, no de un curso.
 
-- 🧠 &nbsp;**Cinco productos con un modelo de lenguaje en el núcleo**, de los que soy autor principal
+Lo que se me da bien es **llevar un producto entero yo solo** —el esquema de la base de datos,
+el backend, el panel desde el que se opera, la app que usa el cliente y el cobro recurrente que
+lo sostiene— hasta que funciona de verdad y hay gente pagando por él. Cinco de esos productos
+tienen un modelo de lenguaje en el núcleo. Y desde hace poco dedico las tardes a un juego en
+Unity, que no se parece en nada a lo anterior y justo por eso me interesa.
+
+Trabajo **en remoto desde UTC−4**, que solapa la jornada completa de Estados Unidos y la mañana
+europea. Estoy abierto a un puesto fijo, a proyectos por encargo y a juntarme con alguien para
+construir producto propio — lo que salga, si el proyecto merece la pena.
+
+<br>
+
+## ⚡ Lo que sé montar
+
 - 💳 &nbsp;**Stripe de punta a punta** — checkout, webhooks, portal del cliente, retención y reconciliación
-- ⚡ &nbsp;**Backend sin servidor** en Supabase Edge Functions sobre Deno y PostgreSQL
+- 🔌 &nbsp;**Backend sin servidor** en Supabase Edge Functions sobre Deno y PostgreSQL
 - 🛡️ &nbsp;**RGPD implementado, no prometido** — exportación de datos y borrado real de la cuenta
+- 📬 &nbsp;**Mensajería completa** — email transaccional, secuencias programadas, push masivas y verificación por SMS
 - 🌍 &nbsp;**Multi-idioma desde el primer día**, porque el público no es solo español
-- 🎮 &nbsp;Y ahora un *party game* en **Unity 6**, porque no todo va a ser CRUD
 
 > [!NOTE]
 > Para ser preciso: **integro APIs de modelos** (Claude, Gemini) y construyo el producto
