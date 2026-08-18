@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Recorrido de un turno de conversacion: la app manda la peticion a una edge function que valida la sesion, resume el historial y elige el modelo; la respuesta vuelve en streaming">
+  <defs>
+    <marker id="punta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#59636e"/>
+    </marker>
+    <marker id="puntaAcento" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f9d6b"/>
+    </marker>
+  </defs>
+
+  <rect width="1000" height="450" rx="12" fill="#ffffff"/>
+
+  <text x="40" y="38" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e" letter-spacing="1.4">UN TURNO DE CONVERSACI&#211;N</text>
+
+  
+  <g>
+    <rect x="40" y="150" width="175" height="86" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="127.5" y="187" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">App React</text>
+    <text x="127.5" y="211" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e">navegador</text>
+  </g>
+  
+  <g>
+    <rect x="315" y="118" width="310" height="190" rx="10" fill="#f6f8fa" stroke="#0f9d6b" stroke-width="2"/>
+    <text x="470" y="219" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328"></text>
+    
+  </g>
+  <text x="470" y="150" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">Edge Function</text>
+  <text x="470" y="169" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#59636e">Deno &#183; Supabase</text>
+  
+  <g>
+    <rect x="337" y="184" width="266" height="34" rx="17" fill="#eef1f4" stroke="#d1d9e0" stroke-width="1"/>
+    <circle cx="356" cy="201" r="9" fill="#0f9d6b" opacity="0.22"/>
+    <text x="356" y="206" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#0f9d6b">1</text>
+    <text x="373" y="206" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2328">valida el JWT del usuario</text>
+  </g>
+  
+  <g>
+    <rect x="337" y="224" width="266" height="34" rx="17" fill="#eef1f4" stroke="#d1d9e0" stroke-width="1"/>
+    <circle cx="356" cy="241" r="9" fill="#0f9d6b" opacity="0.22"/>
+    <text x="356" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#0f9d6b">2</text>
+    <text x="373" y="246" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2328">resume el tramo antiguo</text>
+  </g>
+  
+  <g>
+    <rect x="337" y="264" width="266" height="34" rx="17" fill="#eef1f4" stroke="#d1d9e0" stroke-width="1"/>
+    <circle cx="356" cy="281" r="9" fill="#0f9d6b" opacity="0.22"/>
+    <text x="356" y="286" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#0f9d6b">3</text>
+    <text x="373" y="286" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2328">elige modelo seg&#250;n la tarea</text>
+  </g>
+
+  
+  <g>
+    <rect x="725" y="150" width="235" height="86" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="842.5" y="187" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">Claude &#183; Gemini</text>
+    <text x="842.5" y="211" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e">API del modelo</text>
+  </g>
+
+  <path d="M 215 193 H 305" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#punta)"/>
+  <text x="260" y="182" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12" fill="#59636e">petici&#243;n</text>
+
+  <path d="M 625 193 H 715" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#punta)"/>
+  <text x="670" y="182" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="12" fill="#59636e">+ resumen</text>
+
+  <path d="M 842 150 V 78 H 128 V 140" stroke="#0f9d6b" stroke-width="2.2" fill="none" stroke-dasharray="7 5" marker-end="url(#puntaAcento)"/>
+  <rect x="392" y="63" width="216" height="28" rx="14" fill="#ffffff"/>
+  <text x="500" y="82" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#0f9d6b">respuesta en streaming (SSE)</text>
+
+  
+  <g>
+    <rect x="315" y="348" width="148" height="72" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="389" y="378" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">PostgreSQL</text>
+    <text x="389" y="402" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e">RLS por usuario</text>
+  </g>
+  
+  <g>
+    <rect x="477" y="348" width="148" height="72" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="551" y="378" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">Stripe</text>
+    <text x="551" y="402" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e">suscripci&#243;n</text>
+  </g>
+  <path d="M 389 308 V 338" stroke="#59636e" stroke-width="1.8" fill="none" marker-end="url(#punta)"/>
+  <path d="M 551 308 V 338" stroke="#59636e" stroke-width="1.8" fill="none" marker-end="url(#punta)"/>
+
+  <text x="725" y="372" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">El historial completo no viaja</text>
+  <text x="725" y="393" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">en cada turno, y ninguna clave</text>
+  <text x="725" y="414" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#59636e">llega nunca al navegador.</text>
+  <rect x="705" y="352" width="3" height="68" rx="1.5" fill="#c2410c" opacity="0.7"/>
+</svg>

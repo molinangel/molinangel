@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Reparto en anillo: el objetivo A de cada operario lo lleva el siguiente y el objetivo B el anterior, de modo que nadie ve su propia tarea">
+  <defs>
+    <marker id="puntaA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f9d6b"/>
+    </marker>
+    <marker id="puntaB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c2410c"/>
+    </marker>
+  </defs>
+
+  <rect width="1000" height="420" rx="12" fill="#ffffff"/>
+  <text x="40" y="38" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13" fill="#59636e" letter-spacing="1.4">REPARTO EN ANILLO</text>
+  
+  <path d="M 343.5 59.7 A 168 168 0 0 1 462.3 178.5" stroke="#0f9d6b" stroke-width="2.4" fill="none" marker-end="url(#puntaA)"/>
+  <path d="M 462.3 265.5 A 168 168 0 0 1 343.5 384.3" stroke="#0f9d6b" stroke-width="2.4" fill="none" marker-end="url(#puntaA)"/>
+  <path d="M 256.5 384.3 A 168 168 0 0 1 137.7 265.5" stroke="#0f9d6b" stroke-width="2.4" fill="none" marker-end="url(#puntaA)"/>
+  <path d="M 137.7 178.5 A 168 168 0 0 1 256.5 59.7" stroke="#0f9d6b" stroke-width="2.4" fill="none" marker-end="url(#puntaA)"/>
+  
+  <path d="M 378.5 206.7 A 80 80 0 0 0 315.3 143.5" stroke="#c2410c" stroke-width="2.2" fill="none" marker-end="url(#puntaB)" opacity="0.9"/>
+  <path d="M 315.3 300.5 A 80 80 0 0 0 378.5 237.3" stroke="#c2410c" stroke-width="2.2" fill="none" marker-end="url(#puntaB)" opacity="0.9"/>
+  <path d="M 221.5 237.3 A 80 80 0 0 0 284.7 300.5" stroke="#c2410c" stroke-width="2.2" fill="none" marker-end="url(#puntaB)" opacity="0.9"/>
+  <path d="M 284.7 143.5 A 80 80 0 0 0 221.5 206.7" stroke="#c2410c" stroke-width="2.2" fill="none" marker-end="url(#puntaB)" opacity="0.9"/>
+  
+  <g>
+    <circle cx="300.0" cy="100.0" r="34" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.8"/>
+    <text x="300.0" y="107.0" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2328">1</text>
+  </g>
+  <g>
+    <circle cx="422.0" cy="222.0" r="34" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.8"/>
+    <text x="422.0" y="229.0" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2328">2</text>
+  </g>
+  <g>
+    <circle cx="300.0" cy="344.0" r="34" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.8"/>
+    <text x="300.0" y="351.0" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2328">3</text>
+  </g>
+  <g>
+    <circle cx="178.0" cy="222.0" r="34" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.8"/>
+    <text x="178.0" y="229.0" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2328">4</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="13">
+    <circle cx="576" cy="146" r="5" fill="#0f9d6b"/>
+    <text x="592" y="151" fill="#0f9d6b">objetivo A &#8594; lo lleva el SIGUIENTE</text>
+    <circle cx="576" cy="180" r="5" fill="#c2410c"/>
+    <text x="592" y="185" fill="#c2410c">objetivo B &#8594; lo lleva el ANTERIOR</text>
+  </g>
+
+  <g font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#59636e">
+    <text x="576" y="238">Tu ficha lleva el objetivo A del anterior y el B del</text>
+    <text x="576" y="262">siguiente: dos personas distintas. Nadie ve nunca</text>
+    <text x="576" y="286">su propia tarea, y el invariante se comprueba en</text>
+    <text x="576" y="310">ejecuci&#243;n para 2, 3 y 4 jugadores.</text>
+  </g>
+
+  <rect x="576" y="336" width="384" height="44" rx="8" fill="#eef1f4" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="596" y="363" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#1f2328">Y leer la ficha te congela en el sitio.</text>
+</svg>
