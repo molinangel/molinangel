@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,100:1f6feb&height=210&section=header&text=Nangel&fontSize=74&fontColor=ffffff&fontAlignY=34&desc=He%20construido%20productos%20SaaS%20de%20extremo%20a%20extremo&descSize=17&descAlignY=55&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,100:1f6feb&height=240&section=header&text=Nangel&fontSize=74&fontColor=ffffff&fontAlignY=38&desc=He%20construido%20productos%20SaaS%20de%20extremo%20a%20extremo&descSize=17&descAlignY=60&animation=fadeIn" width="100%">
 
 <div align="center">
 
@@ -59,13 +59,15 @@ entero no viaja en cada turno. Un modelo pequeño comprime, renombra hilos y cla
 grande solo entra donde se nota. Y cada llamada va con el permiso del usuario, no con una clave
 compartida.
 
+_Los cinco siguen en repositorios privados._
+
 | Producto | | Qué es |
 |:---|:---|:---|
-| **Nutrición** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) ![](https://img.shields.io/badge/privado-30363D?style=flat-square) | Acompañamiento por chat con streaming, detección de objetivos, rachas y tareas generadas. El mayor de los cinco: **28 funciones de servidor** |
-| **Asistencia legal** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) ![](https://img.shields.io/badge/privado-30363D?style=flat-square) | Análisis inicial del caso, preguntas guiadas y chat legal sobre plantillas administradas |
-| **Veterinaria** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) ![](https://img.shields.io/badge/privado-30363D?style=flat-square) | Consulta asistida con recordatorios, informes en PDF y facturación |
-| **Trabajos académicos** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) ![](https://img.shields.io/badge/privado-30363D?style=flat-square) | Editor enriquecido con fórmulas, tablas y diagramas, y exportación a DOCX y PPTX |
-| **Tarot** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) ![](https://img.shields.io/badge/privado-30363D?style=flat-square) | Interpretación generada, numerología y horóscopo, con campañas y notificaciones |
+| **Nutrición** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) | Acompañamiento por chat con streaming, detección de objetivos, rachas y tareas generadas. El mayor de los cinco: **28 funciones de servidor** |
+| **Asistencia legal** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) | Análisis inicial del caso, preguntas guiadas y chat legal sobre plantillas administradas |
+| **Veterinaria** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) | Consulta asistida con recordatorios, informes en PDF y facturación |
+| **Trabajos académicos** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) | Editor enriquecido con fórmulas, tablas y diagramas, y exportación a DOCX y PPTX |
+| **Tarot** | ![](https://img.shields.io/badge/Autor%20principal-0F9D6B?style=flat-square) | Interpretación generada, numerología y horóscopo, con campañas y notificaciones |
 
 <br>
 
@@ -108,7 +110,7 @@ a la vez, y lo digo abiertamente porque es parte del método y no algo que conve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=molinangel&bg_color=0d1117&color=e6edf3&line=3fcf8e&point=ffffff&area=true&area_color=0f9d6b&hide_border=true&custom_title=Contribuciones" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=molinangel&bg_color=00000000&color=8b949e&title_color=8b949e&line=0f9d6b&point=0f9d6b&area=true&area_color=0f9d6b&hide_border=true&custom_title=Contribuciones" width="100%">
 
 </div>
 
