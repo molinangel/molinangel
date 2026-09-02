@@ -1,0 +1,57 @@
+name: Actualizar actividad
+
+# Regenera el calendario de contribuciones y lo deja versionado en el repo.
+# De este modo el perfil no depende de ningun servicio externo: la imagen
+# es un archivo propio, no una llamada a la instancia gratuita de alguien.
+
+on:
+  schedule:
+    # 03:17 UTC. Minuto impar a proposito: los cron en punto se encolan
+    # detras de miles de repositorios y GitHub los retrasa.
+    - cron: '17 3 * * *'
+  workflow_dispatch:        # permite lanzarlo a mano desde la pestaña Actions
+  push:
+    paths:
+      - 'generar-actividad.py'
+      - '.github/workflows/actividad.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actividad
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generar el SVG
+        env:
+          # GITHUB_TOKEN alcanza para leer contribuciones publicas.
+          # Si algun dia devuelve error de permisos, crear un token
+          # personal con el permiso 'read:user' y guardarlo como
+          # secreto TOKEN_PERFIL; la linea de abajo ya lo prefiere.
+          GITHUB_TOKEN: ${{ secrets.TOKEN_PERFIL || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python generar-actividad.py
+
+      - name: Publicar si cambio
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add actividad.svg
+          # Sin cambios no se hace commit: evita ensuciar el historial
+          # con un commit diario identico al anterior.
+          if git diff --staged --quiet; then
+            echo "Sin cambios en la actividad."
+          else
+            git commit -m "Actualiza el calendario de actividad"
+            git push
+          fi
