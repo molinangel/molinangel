@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-header.svg" width="100%" alt="Nangel — producto de punta a punta">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-header.svg?v=1788393076" width="100%" alt="Nangel — producto de punta a punta">
 
 <div align="center">
 
@@ -133,8 +133,8 @@ a la vez, y lo digo abiertamente porque es parte del método y no algo que conve
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/actividad.svg" width="100%" alt="Calendario de contribuciones">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/actividad.svg?v=1788393076" width="100%" alt="Calendario de contribuciones">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-footer.svg" width="100%" alt="Contacto">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-footer.svg?v=1788393076" width="100%" alt="Contacto">
