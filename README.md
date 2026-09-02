@@ -100,7 +100,7 @@ _Los cinco siguen en repositorios privados._
 |:---|:---|:---|
 | **[Operia](https://github.com/molinangel/Operia)** |  ![](https://img.shields.io/badge/Autor-1F6FEB?style=flat-square) ![](https://img.shields.io/badge/en%20desarrollo-D29922?style=flat-square) | SaaS multi-inquilino para negocios de servicios: trabajos, presupuestos que el cliente aprueba desde el móvil y control de cobros<br>`Next.js 16` `Prisma` `argon2id` |
 | **[SH](https://github.com/diego-landaeta/SH)** | ![](https://img.shields.io/badge/Contribuidor%20clave-1F6FEB?style=flat-square) | Gestión operativa sobre Supabase<br>`React` `shadcn/ui` `PostgreSQL` |
-| **[CRM](https://github.com/diego-landaeta/CRM)** · **[CRM-ISEIE](https://github.com/diego-landaeta/CRM-ISEIE)** | ![](https://img.shields.io/badge/Contribuidor-484F58?style=flat-square) | CRM multiproyecto con backend propio<br>`Express` `PostgreSQL` `React` `S3` |
+| **[CRM](https://github.com/diego-landaeta/CRM)** · **[CRM institucional](https://github.com/diego-landaeta/CRM-ISEIE)** | ![](https://img.shields.io/badge/Contribuidor-484F58?style=flat-square) | CRM multiproyecto con backend propio<br>`Express` `PostgreSQL` `React` `S3` |
 
 <br>
 
@@ -133,7 +133,7 @@ a la vez, y lo digo abiertamente porque es parte del método y no algo que conve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=molinangel&bg_color=00000000&color=8b949e&title_color=8b949e&line=0f9d6b&point=0f9d6b&area=true&area_color=0f9d6b&hide_border=true&custom_title=Contribuciones" width="100%">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/actividad.svg" width="100%" alt="Calendario de contribuciones">
 
 </div>
 
