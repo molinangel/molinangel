@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,45:1f6feb,100:8957e5&height=290&section=header&text=Nangel&fontSize=88&fontColor=ffffff&fontAlignY=33&desc=TypeScript%20%C2%B7%20PostgreSQL%20%C2%B7%20Modelos%20de%20lenguaje%20en%20producto&descSize=18&descAlignY=52&animation=fadeIn" width="100%">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-header.svg" width="100%" alt="Nangel — producto de punta a punta">
 
 <div align="center">
 
@@ -137,4 +137,4 @@ a la vez, y lo digo abiertamente porque es parte del método y no algo que conve
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0f9d6b&height=200&section=footer&text=Hablemos&fontSize=38&fontColor=ffffff&fontAlignY=68&desc=nangelm.dev%40gmail.com%20%C2%B7%20Remoto%20UTC%E2%88%924&descSize=15&descAlignY=86&animation=fadeIn&reversal=true" width="100%">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-footer.svg" width="100%" alt="Contacto">
