@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=3FCF8E&center=true&vCenter=true&width=780&height=46&lines=Producto+de+punta+a+punta%2C+no+solo+la+pantalla;Suscripciones%2C+backend+sin+servidor+y+panel+de+control;Ahora+tambi%C3%A9n+Unity+y+C%23">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=3FCF8E&center=true&vCenter=true&width=1000&height=44&lines=Producto+de+punta+a+punta%2C+no+solo+la+pantalla;Suscripciones%2C+backend+sin+servidor+y+panel+de+control;Ahora+tambi%C3%A9n+Unity+y+C%23">
 
 <br>
 
