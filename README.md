@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,100:1f6feb&height=240&section=header&text=Nangel&fontSize=74&fontColor=ffffff&fontAlignY=38&desc=He%20construido%20productos%20SaaS%20de%20extremo%20a%20extremo&descSize=17&descAlignY=60&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,45:1f6feb,100:8957e5&height=290&section=header&text=Nangel&fontSize=88&fontColor=ffffff&fontAlignY=33&desc=Cinco%20SaaS%20con%20un%20modelo%20de%20lenguaje%20en%20el%20n%C3%BAcleo&descSize=18&descAlignY=52&animation=fadeIn" width="100%">
 
 <div align="center">
 
@@ -14,6 +14,9 @@
 <br>
 
 ## 👋 Sobre mí
+
+Trabajo profesionalmente **desde 2025**; el historial público de esta cuenta arranca en
+2026, cuando el equipo migró a GitHub.
 
 Me llamo Nangel y escribo software desde **Venezuela**. Vengo de formación técnica y el resto
 lo he aprendido construyendo: casi todo lo que sé hacer salió de un producto que había que
@@ -135,4 +138,4 @@ a la vez, y lo digo abiertamente porque es parte del método y no algo que conve
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0f9d6b&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0f9d6b&height=200&section=footer&text=Hablemos&fontSize=38&fontColor=ffffff&fontAlignY=68&desc=nangelm.dev%40gmail.com%20%C2%B7%20Remoto%20UTC%E2%88%924&descSize=15&descAlignY=86&animation=fadeIn&reversal=true" width="100%">
