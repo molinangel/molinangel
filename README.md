@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,45:1f6feb,100:8957e5&height=290&section=header&text=Nangel&fontSize=88&fontColor=ffffff&fontAlignY=33&desc=Cinco%20SaaS%20con%20un%20modelo%20de%20lenguaje%20en%20el%20n%C3%BAcleo&descSize=18&descAlignY=52&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d6b,45:1f6feb,100:8957e5&height=290&section=header&text=Nangel&fontSize=88&fontColor=ffffff&fontAlignY=33&desc=TypeScript%20%C2%B7%20PostgreSQL%20%C2%B7%20Modelos%20de%20lenguaje%20en%20producto&descSize=18&descAlignY=52&animation=fadeIn" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=3FCF8E&center=true&vCenter=true&width=780&height=46&lines=Cinco+SaaS+con+un+modelo+de+lenguaje+en+el+n%C3%BAcleo;Suscripciones%2C+backend+sin+servidor+y+panel+de+control;Ahora+tambi%C3%A9n+Unity+y+C%23">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=3FCF8E&center=true&vCenter=true&width=780&height=46&lines=Producto+de+punta+a+punta%2C+no+solo+la+pantalla;Suscripciones%2C+backend+sin+servidor+y+panel+de+control;Ahora+tambi%C3%A9n+Unity+y+C%23">
 
 <br>
 
@@ -22,15 +22,14 @@ Me llamo Angel y escribo software desde **Venezuela**. Vengo de formación técn
 lo he aprendido construyendo: casi todo lo que sé hacer salió de un producto que había que
 terminar y poner en manos de alguien, no de un curso.
 
-Lo que se me da bien es **llevar un producto entero yo solo** —el esquema de la base de datos,
+Lo que se me da bien es **llevar un SaaS de punta a punta** —el esquema de la base de datos,
 el backend, el panel desde el que se opera, la app que usa el cliente y el cobro recurrente que
 lo sostiene— hasta que funciona de verdad y hay gente pagando por él. Cinco de esos productos
 tienen un modelo de lenguaje en el núcleo. Y desde hace poco dedico las tardes a un juego en
 Unity, que no se parece en nada a lo anterior y justo por eso me interesa.
 
 Trabajo **en remoto desde UTC−4**, que solapa la jornada completa de Estados Unidos y la mañana
-europea. Estoy abierto a un puesto fijo, a proyectos por encargo y a juntarme con alguien para
-construir producto propio — lo que salga, si el proyecto merece la pena.
+europea.
 
 <br>
 
