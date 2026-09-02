@@ -18,7 +18,7 @@
 Trabajo profesionalmente **desde 2025**; el historial público de esta cuenta arranca en
 2026, cuando el equipo migró a GitHub.
 
-Me llamo Nangel y escribo software desde **Venezuela**. Vengo de formación técnica y el resto
+Me llamo Angel y escribo software desde **Venezuela**. Vengo de formación técnica y el resto
 lo he aprendido construyendo: casi todo lo que sé hacer salió de un producto que había que
 terminar y poner en manos de alguien, no de un curso.
 
