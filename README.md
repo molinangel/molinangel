@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-header.svg?v=1788394868" width="100%" alt="Nangel — producto de punta a punta">
+<img src="https://raw.githubusercontent.com/molinangel/molinangel/main/banner-header.svg?v=1788395178" width="100%" alt="Nangel — producto de punta a punta">
 
 <div align="center">
 
