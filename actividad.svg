@@ -388,6 +388,7 @@
 <rect x="762" y="62" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.416s" fill="freeze"/><title>2026-09-08: 0</title></rect>
 <rect x="762" y="76" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.416s" fill="freeze"/><title>2026-09-09: 0</title></rect>
 <rect x="762" y="90" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.416s" fill="freeze"/><title>2026-09-10: 0</title></rect>
+<rect x="762" y="104" width="11" height="11" rx="2.5" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.416s" fill="freeze"/><title>2026-09-11: 0</title></rect>
 <text x="644" y="159" class="et">Menos</text>
 <rect x="686" y="150" width="11" height="11" rx="2.5" fill="#161b22"/>
 <rect x="700" y="150" width="11" height="11" rx="2.5" fill="#0e4429"/>
